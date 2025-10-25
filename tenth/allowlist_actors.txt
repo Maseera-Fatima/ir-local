@@ -1,0 +1,3 @@
+# Approved cross-account actors
+arn:aws:iam::111122223333:role/TerraformDeployer
+arn:aws:iam::111122223333:role/AWSReservedSSO_Admin
